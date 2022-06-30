@@ -16,7 +16,7 @@ public class Barang {
 
     public Barang() {}
     
-    public Barang(String id_barang, String nama_barang, int harga) {
+    public Barangs(String id_barang, String nama_barang, int harga) {
         this.id_barang = id_barang;
         this.nama_barang = nama_barang;
         this.harga = harga;
