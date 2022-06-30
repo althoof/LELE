@@ -31,7 +31,7 @@ public class ManageBarang extends javax.swing.JFrame {
         SetEditOff();
     }
     
-    private void tampilData(){
+    private void tampilanData(){
         try{
             int baris = tableBarang.getRowCount();
             for(int i = 0; i < baris; i++) {
