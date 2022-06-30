@@ -10,7 +10,8 @@ package Model;
  * @author Muh
  */
 public class Barang {
-    String id_barang, nama_barang;
+    String id_barang;
+    String nama_barang;
     int harga;
 
     public Barang() {}
