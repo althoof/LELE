@@ -18,8 +18,8 @@ import javax.swing.JOptionPane;
  */
 public class Config {
     //Init var
-    private Connection conn;
-    private Statement stm;
+    private Connections conn;
+    private Statements stm;
     ResultSet rs;
     String url = "jdbc:mysql://localhost/penjualan";
     String user = "root";
