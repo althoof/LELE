@@ -14,7 +14,7 @@ import javax.swing.table.AbstractTableModel;
  *
  * @author Muh
  */
-public class ControllerBarang extends AbstractTableModel{
+public class ControllerBarang extends AbstractTabModel{
     private final List<Barang> list = new ArrayList<>();
 
     public ControllerBarang() {
