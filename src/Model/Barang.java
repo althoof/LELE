@@ -22,7 +22,7 @@ public class Barang {
         this.harga = harga;
     }
 
-    public String getId_barang() {
+    public String getId_barangbaru() {
         return id_barang;
     }
 
